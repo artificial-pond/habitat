@@ -1,0 +1,8 @@
+# Misc #
+**/*.swp
+
+# Ignore intellij idea project files and directories #
+**/*.idea
+**/*.iml
+
+# Ignore visual studio code project files and directories #
